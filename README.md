@@ -206,16 +206,22 @@ The project includes a Streamlit-based web application where users can:
 
 ---
 
-
 ## 📸 Application Screenshots
 
 ### 🏠 Homepage
 
-<img src="./screenshots/Homepage.png" width="900">
+<p align="center">
+  <img src="screenshots/Homepage.png" width="900">
+</p>
 
 ### 🎯 Prediction Result
 
-<img src="./screenshots/prediction.png" width="900">
+<p align="center">
+  <img src="screenshots/prediction.png" width="900">
+</p>
+
+---
+
 ## 🚀 Installation
 
 ### Clone Repository
