@@ -211,12 +211,11 @@ The project includes a Streamlit-based web application where users can:
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/Homepage.png)
+<img src="./screenshots/Homepage.png" width="900">
 
 ### 🎯 Prediction Result
 
-![Prediction Result](screenshots/prediction.png)
-
+<img src="./screenshots/prediction.png" width="900">
 ## 🚀 Installation
 
 ### Clone Repository
