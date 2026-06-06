@@ -206,22 +206,17 @@ The project includes a Streamlit-based web application where users can:
 
 ---
 
-## 📸 Screenshots
+
+## 📸 Application Screenshots
 
 ### Home Page
 
-Add screenshot here:
-
-
-(screenshots/Homepage.png)
+![Home Page](screenshots/Homepage.png)
 
 
 ### Prediction Result
 
-Add screenshot here:
-
-
-(screenshots/prediction.png)
+![Prediction Result](screenshots/prediction.png)
 
 
 ---
