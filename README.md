@@ -212,17 +212,17 @@ The project includes a Streamlit-based web application where users can:
 
 Add screenshot here:
 
-```text
-screenshots/Homepage.png
-```
+
+(screenshots/Homepage.png)
+
 
 ### Prediction Result
 
 Add screenshot here:
 
-```text
-screenshots/prediction.png
-```
+
+(screenshots/prediction.png)
+
 
 ---
 
