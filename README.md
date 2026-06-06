@@ -209,17 +209,13 @@ The project includes a Streamlit-based web application where users can:
 
 ## 📸 Application Screenshots
 
-### Home Page
+### 🏠 Homepage
 
-![Home Page](screenshots/Homepage.png)
+![Homepage](screenshots/Homepage.png)
 
-
-### Prediction Result
+### 🎯 Prediction Result
 
 ![Prediction Result](screenshots/prediction.png)
-
-
----
 
 ## 🚀 Installation
 
